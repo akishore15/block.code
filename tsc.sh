@@ -1,0 +1,1 @@
+tsc main.ts --outFile main.js
